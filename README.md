@@ -3,7 +3,7 @@
 ## Introduction
 yo ... im ariel zvinowanda.
 
-[![GitRoll Profile Badge](https://gitroll.io/api/badges/profiles/v1/u9moYstrMDNVEw1lR1irTj5ageeI2?theme=tokyoNight)](https://gitroll.io/profile/u9moYstrMDNVEw1lR1irTj5ageeI2)
+[![GitRoll Profile Badge](https://gitroll.io/api/badges/profiles/v1/u9moYstrMDNVEw1lR1irTj5ageeI2?theme=midnight)](https://gitroll.io/profile/u9moYstrMDNVEw1lR1irTj5ageeI2)
 ![GitHub Snake Dark](https://github.com/Kazan20/Kazan20/raw/output/github-snake-dark.svg#gh-dark-mode-only)
 
 
